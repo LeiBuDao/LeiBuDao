@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RUNXU
 - 👀 I’m interested in moyu
-- 🌱 I’m currently learning SEU
+- 🌱 I’m currently learning in SEU
 🖋️ My blog is 📎 [HERE](https://LeiBuDao.github.io).
 
 <!---
