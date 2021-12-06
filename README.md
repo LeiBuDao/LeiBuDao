@@ -28,4 +28,4 @@
 🖋️ My blog is 📎 [HERE](https://LeiBuDao.github.io).
 - 💻 My github stats
 
-![info](https://github-readme-stats.vercel.app/api?username=LeiBuDao&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+   ![info](https://github-readme-stats.vercel.app/api?username=LeiBuDao&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
