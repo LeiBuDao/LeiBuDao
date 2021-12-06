@@ -33,4 +33,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 · 💻 My github stats
-![info](https://github-readme-stats.vercel.app/api?username=LeiBuDao&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+![info](https://github-readme-stats.vercel.app/api?username=LeiBuDao&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
