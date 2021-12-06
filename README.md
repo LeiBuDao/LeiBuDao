@@ -32,4 +32,5 @@ RUNXU/RUNXU is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-![info](https://github-readme-stats.vercel.app/api?username=LeiBuDao&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+· 💻 My github stats
+![info](https://github-readme-stats.vercel.app/api?username=LeiBuDao&show_icons=true&count_private=true&hide=prs&theme=dark)
